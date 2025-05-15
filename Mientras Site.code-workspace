@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "MTD-book-master",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MTD-book-master"
+	}
+}
