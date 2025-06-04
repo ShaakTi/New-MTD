@@ -23,9 +23,9 @@
 
     if (@mail($to, $email, $message, $headers))
     {
-        echo 'The message has been sent.';
+        echo 'El mensaje ha sido enviado.';
     }else{
-        echo 'failed';
+        echo 'Error en el mensaje.';
     }
 
 ?>
